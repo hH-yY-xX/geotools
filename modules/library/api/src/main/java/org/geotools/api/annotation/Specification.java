@@ -11,6 +11,7 @@ package org.geotools.api.annotation;
 
 /**
  * The specifications from which an interface, method or code list was derived.
+ * 源于规范的接口、方法、代码列表
  *
  * @author Martin Desruisseaux (IRD)
  * @since GeoAPI 2.0

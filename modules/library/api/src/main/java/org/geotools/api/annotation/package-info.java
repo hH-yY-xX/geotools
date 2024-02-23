@@ -11,6 +11,7 @@
 /**
  * Set of annotations mapping <A HREF="http://geoapi.sourceforge.net">GeoAPI</A> interfaces to <A
  * HREF="http://www.opengis.org">OpenGIS</A> UML or XML schemas.
+ * 一组将GeoAPI接口映射到OpenGIS UML或XML模式的注解
  *
  * @since GeoAPI 2.0
  */
